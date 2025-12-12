@@ -21,7 +21,7 @@ const Card = ({
         <p className="text-gray-700 text-base">{posts.body}</p>
       </div>
       <button
-        className="text-gray-700 bg-amber-700 text-base p-2"
+        className="text-white bg-amber-700 text-base p-2"
         onClick={onDelete}
       >
         Delete
