@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.color {
+  color: gold;
+}
+
+.noColor {
+  color: lightgray;
+}
